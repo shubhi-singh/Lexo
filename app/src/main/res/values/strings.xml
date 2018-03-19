@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lexo</string>
+    <string name="search_hint">Learn a word!</string>
+    <string name="search">Search</string>
+</resources>
